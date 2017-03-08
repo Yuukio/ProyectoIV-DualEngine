@@ -108,6 +108,7 @@
     <Compile Include="Assets\Scripts\Player 1\PlayerHealth.cs" />
     <Compile Include="Assets\Scripts\Player 1\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player 1\PlayerShooting.cs" />
+    <Compile Include="Assets\Scripts\Player 1\PlayerVida.cs" />
     <Compile Include="Assets\Scripts\Player\UserInput.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

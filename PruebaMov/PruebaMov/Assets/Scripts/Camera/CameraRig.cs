@@ -71,6 +71,7 @@ public class CameraRig : MonoBehaviour
     {
         mainCamera = Camera.main;
         pivot = transform.GetChild(0);
+        //mainCamera.clearFlags = CameraClearFlags.Skybox;
     }
 
     // Update is called once per frame
