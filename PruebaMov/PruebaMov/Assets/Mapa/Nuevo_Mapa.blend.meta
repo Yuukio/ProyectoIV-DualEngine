@@ -19,6 +19,14 @@ ModelImporter:
     100022: Rocas_MeshPart0
     100024: Rocas_MeshPart1
     100026: Rocas_MeshPart2
+    100028: Plane
+    100030: Muros
+    100032: Suelo
+    100034: Suelo_MeshPart0
+    100036: Suelo_MeshPart1
+    100038: Suelo_MeshPart2
+    100040: Suelo_MeshPart3
+    100042: Suelo_MeshPart4
     400000: Adornos
     400002: Adornos_MeshPart0
     400004: Adornos_MeshPart1
@@ -33,6 +41,14 @@ ModelImporter:
     400022: Rocas_MeshPart0
     400024: Rocas_MeshPart1
     400026: Rocas_MeshPart2
+    400028: Plane
+    400030: Muros
+    400032: Suelo
+    400034: Suelo_MeshPart0
+    400036: Suelo_MeshPart1
+    400038: Suelo_MeshPart2
+    400040: Suelo_MeshPart3
+    400042: Suelo_MeshPart4
     2300000: Adornos_MeshPart0
     2300002: Adornos_MeshPart1
     2300004: Plano_001_MeshPart0
@@ -43,6 +59,13 @@ ModelImporter:
     2300014: Rocas_MeshPart0
     2300016: Rocas_MeshPart1
     2300018: Rocas_MeshPart2
+    2300020: Plane
+    2300022: Muros
+    2300024: Suelo_MeshPart0
+    2300026: Suelo_MeshPart1
+    2300028: Suelo_MeshPart2
+    2300030: Suelo_MeshPart3
+    2300032: Suelo_MeshPart4
     3300000: Adornos_MeshPart0
     3300002: Adornos_MeshPart1
     3300004: Plano_001_MeshPart0
@@ -53,6 +76,13 @@ ModelImporter:
     3300014: Rocas_MeshPart0
     3300016: Rocas_MeshPart1
     3300018: Rocas_MeshPart2
+    3300020: Plane
+    3300022: Muros
+    3300024: Suelo_MeshPart0
+    3300026: Suelo_MeshPart1
+    3300028: Suelo_MeshPart2
+    3300030: Suelo_MeshPart3
+    3300032: Suelo_MeshPart4
     4300000: Adornos_MeshPart0
     4300002: Adornos_MeshPart1
     4300004: Rocas_MeshPart0
@@ -63,6 +93,13 @@ ModelImporter:
     4300014: Plano_001_MeshPart2
     4300016: Plano_001_MeshPart3
     4300018: Plano_001_MeshPart4
+    4300020: Plane
+    4300022: Muros
+    4300024: Suelo_MeshPart0
+    4300026: Suelo_MeshPart1
+    4300028: Suelo_MeshPart2
+    4300030: Suelo_MeshPart3
+    4300032: Suelo_MeshPart4
     7400000: Default Take
     9500000: //RootNode
   materials:
