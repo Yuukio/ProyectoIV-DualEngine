@@ -64,6 +64,7 @@ public class CameraRig : MonoBehaviour
     float newY = 0.0f;
 
     public Camera mainCamera { get; protected set; }
+    public Camera innerCamera;
     public Transform pivot { get; set; }
 
     // Use this for initialization
@@ -71,7 +72,8 @@ public class CameraRig : MonoBehaviour
     {
         mainCamera = Camera.main;
         pivot = transform.GetChild(0);
-        //mainCamera.clearFlags = CameraClearFlags.Skybox;
+        innerCamera.clearFlags = CameraClearFlags.Skybox;
+       
     }
 
     // Update is called once per frame
